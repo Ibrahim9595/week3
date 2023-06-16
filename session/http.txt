@@ -1,0 +1,25 @@
+
+         INTERNET
+client ===========>(request) server
+        (response)<=========
+
+protocol (http)
+
+Request
+verbs   
+GET
+POST  /users
+PUT
+PATCH
+DELETE
+HEAD
+url => location of the resource
+body => additional data to send to the server
+headers => control 
+
+Response status
+1XX
+2XX
+3XX
+4XX
+5XX
